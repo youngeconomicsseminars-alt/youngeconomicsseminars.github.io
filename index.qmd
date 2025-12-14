@@ -1,0 +1,22 @@
+---
+title: "Seminar Group"
+format: html
+---
+
+# Welcome to the Seminar Group!
+
+We are a research community exploring topics in **Finance, Economics, and Data Science**.
+
+Join our next seminar or explore past talks below.
+
+👉 [See upcoming events](events.qmd)
+
+------------------------------------------------------------------------
+
+### 🧑‍🏫 About Us
+
+Our seminar brings together PhD students and researchers to discuss ongoing projects, exchange ideas, and collaborate.
+
+-   📍 Location: University of Trento\
+-   🕒 Frequency: Every Thursday, 2–4 PM\
+-   📧 Contact: [seminar-group\@university.edu](mailto:seminar-group@university.edu)

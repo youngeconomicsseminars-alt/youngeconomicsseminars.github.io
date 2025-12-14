@@ -1,0 +1,40 @@
+---
+title: "Upcoming Events"
+format: html
+---
+
+# 📅 Upcoming Events
+
+Welcome to our seminar calendar!  
+Here you’ll find the next sessions of our **Seminar Group** — click on “Details” to learn more about each talk.
+
+---
+
+## 🔜 Next Seminars
+
+| 🗓️ Date       | 🧩 Title                       | 👤 Speaker        | 🔗 Link |
+|:---------------|:-------------------------------|:------------------|:--------|
+| **Nov 15, 2025** | ESG News & Markets             | Prof. A. Smith    | [Details](#) |
+| **Dec 02, 2025** | Microstructure Roundtable      | Dr. B. Liu        | [Details](#) |
+| **Jan 10, 2026** | Machine Learning in Markets    | Prof. T. Aste     | [Details](#) |
+
+---
+
+## 🕓 Seminar Logistics
+
+- 🏛️ **Location:** University of [Your Institution], Room 301  
+- ⏰ **Time:** Thursdays, 2–4 PM  
+- 📬 **Contact:** [seminar-group@university.edu](mailto:seminar-group@university.edu)  
+- 🗃️ **Archive:** Past seminars will be listed [here](past-events.qmd)
+
+---
+
+## 💡 Tip
+If you later want this table to **update automatically** from a CSV (e.g., `events.csv`), you can replace the static Markdown table with a small R code block like this:
+
+```{r}
+library(readr)
+library(knitr)
+
+events <- read_csv("events.csv")
+kable(events, align = "l")

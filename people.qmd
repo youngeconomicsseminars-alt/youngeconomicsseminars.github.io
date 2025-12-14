@@ -1,0 +1,18 @@
+---
+title: "People"
+format: html
+---
+
+👥 <h1 class="slide-title">Meet Our Team</h1>
+
+
+
+Meet the PhD students and researchers behind our **Seminar Group**.  
+Click on each profile to visit their academic or research pages.
+
+---
+
+## 🧑‍🎓 PhD Students
+Tesfaye Sebastiano Salarin is a PhD Candidate in Economics and Finance at the University of Trento and currently a visiting researcher with the EconophysiX Group. His research examines the interplay between intraday price dynamics and both exogenous and endogenous shocks to financial markets. His broader interests include Market Microstructure, High-Frequency and Algorithmic Trading, and Computational Finance. He holds an MSc in Quantitative Finance from Cà Foscari University of Venice.
+
+<img src="images/tesfaye.jpg" alt="Tesfaye Salarin" width="200">

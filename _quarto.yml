@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Seminar Group"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: events.qmd
+        text: Events
+      - href : people.qmd
+        text: People
+      #- href: contact.qmd
+      #  text: Contact
+  page-footer: "© 2025 Seminar Group | Built with Quarto & R"
+
+format:
+  html:
+    theme: sandstone 
+    css: styles.css
+    toc: true
