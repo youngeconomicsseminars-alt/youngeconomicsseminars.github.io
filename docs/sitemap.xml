@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tesfayesalarin.github.io/YES-Seminars/talks/2025-03-12/index.html</loc>
-    <lastmod>2025-12-15T10:24:19.635Z</lastmod>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/talks/2025-10-12/index.html</loc>
+    <lastmod>2025-12-15T17:36:04.243Z</lastmod>
   </url>
   <url>
-    <loc>https://tesfayesalarin.github.io/YES-Seminars/people/tesfaye.html</loc>
-    <lastmod>2025-12-15T17:09:15.347Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tesfayesalarin.github.io/YES-Seminars/events.html</loc>
-    <lastmod>2025-12-15T11:27:35.679Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tesfayesalarin.github.io/YES-Seminars/about.html</loc>
-    <lastmod>2025-11-07T18:56:24.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tesfayesalarin.github.io/YES-Seminars/contacts.html</loc>
-    <lastmod>2025-11-07T19:10:31.120Z</lastmod>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/people.html</loc>
+    <lastmod>2025-12-15T13:11:49.179Z</lastmod>
   </url>
   <url>
     <loc>https://tesfayesalarin.github.io/YES-Seminars/index.html</loc>
     <lastmod>2025-11-09T08:50:55.759Z</lastmod>
   </url>
   <url>
-    <loc>https://tesfayesalarin.github.io/YES-Seminars/people.html</loc>
-    <lastmod>2025-12-15T13:11:49.179Z</lastmod>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/contacts.html</loc>
+    <lastmod>2025-11-07T19:10:31.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/about.html</loc>
+    <lastmod>2025-11-07T18:56:24.202Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/events.html</loc>
+    <lastmod>2025-12-15T11:27:35.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/people/tesfaye.html</loc>
+    <lastmod>2025-12-15T17:09:15.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tesfayesalarin.github.io/YES-Seminars/talks/2025-03-12/index.html</loc>
+    <lastmod>2025-12-15T17:31:50.160Z</lastmod>
   </url>
 </urlset>
