@@ -116,11 +116,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#upcoming-events" id="toc-upcoming-events" class="nav-link active" data-scroll-target="#upcoming-events">📅 Upcoming Events</a>
+  <li><a href="#whats-next" id="toc-whats-next" class="nav-link active" data-scroll-target="#whats-next">📅 What’s next!</a>
   <ul class="collapse">
-  <li><a href="#next-seminars" id="toc-next-seminars" class="nav-link" data-scroll-target="#next-seminars">🔜 Next Seminars</a></li>
   <li><a href="#seminar-logistics" id="toc-seminar-logistics" class="nav-link" data-scroll-target="#seminar-logistics">🕓 Seminar Logistics</a></li>
-  <li><a href="#tip" id="toc-tip" class="nav-link" data-scroll-target="#tip">💡 Tip</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -147,63 +145,88 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="upcoming-events" class="level1">
-<h1>📅 Upcoming Events</h1>
+<section id="whats-next" class="level1">
+<h1>📅 What’s next!</h1>
 <p>Welcome to our seminar calendar!<br>
 Here you’ll find the next sessions of our <strong>Seminar Group</strong> — click on “Details” to learn more about each talk.</p>
 <hr>
-<section id="next-seminars" class="level2">
-<h2 class="anchored" data-anchor-id="next-seminars">🔜 Next Seminars</h2>
-<table class="caption-top table">
+<section id="seminar-logistics" class="level2">
+<h2 class="anchored" data-anchor-id="seminar-logistics">🕓 Seminar Logistics</h2>
+<ul>
+<li>🏛️ <strong>Location:</strong>Department of Economics, University of Trento<br>
+</li>
+<li>⏰ <strong>Time:</strong> Thursdays, 12am - 1pm</li>
+<li>📬 <strong>Contact:</strong> <a href="Fabio Cevenini, PhD">fabio.cevenini@unitn.it</a>, <a href="Marco Tomasi, PhD">marco.tomasi@unitn.it</a>, <a href="Tesfaye Salarin, PhD Candidate">tesfaye.salarin@unitn.it</a></li>
+</ul>
+<hr>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<caption>Upcoming Seminars</caption>
 <thead>
 <tr class="header">
-<th style="text-align: left;">🗓️ Date</th>
-<th style="text-align: left;">🧩 Title</th>
-<th style="text-align: left;">👤 Speaker</th>
-<th style="text-align: left;">🔗 Link</th>
+<th style="text-align: left;">Date</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Speaker</th>
+<th style="text-align: left;">Affiliation</th>
+<th style="text-align: left;">Paper</th>
+<th style="text-align: left;">Additional Materials</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><strong>Nov 15, 2025</strong></td>
-<td style="text-align: left;">ESG News &amp; Markets</td>
-<td style="text-align: left;">Prof.&nbsp;A. Smith</td>
-<td style="text-align: left;"><a href="#">Details</a></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>Dec 02, 2025</strong></td>
-<td style="text-align: left;">Microstructure Roundtable</td>
-<td style="text-align: left;">Dr.&nbsp;B. Liu</td>
-<td style="text-align: left;"><a href="#">Details</a></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>Jan 10, 2026</strong></td>
-<td style="text-align: left;">Machine Learning in Markets</td>
-<td style="text-align: left;">Prof.&nbsp;T. Aste</td>
-<td style="text-align: left;"><a href="#">Details</a></td>
+<td style="text-align: left;">2026-01-09</td>
+<td style="text-align: left;">TBD</td>
+<td style="text-align: left;">TBD</td>
+<td style="text-align: left;">TBD</td>
+<td style="text-align: left;">TBD</td>
+<td style="text-align: left;">TBD</td>
 </tr>
 </tbody>
 </table>
-<hr>
-</section>
-<section id="seminar-logistics" class="level2">
-<h2 class="anchored" data-anchor-id="seminar-logistics">🕓 Seminar Logistics</h2>
-<ul>
-<li>🏛️ <strong>Location:</strong> University of [Your Institution], Room 301<br>
-</li>
-<li>⏰ <strong>Time:</strong> Thursdays, 2–4 PM<br>
-</li>
-<li>📬 <strong>Contact:</strong> <a href="mailto:seminar-group@university.edu">seminar-group@university.edu</a><br>
-</li>
-<li>🗃️ <strong>Archive:</strong> Past seminars will be listed <a href="past-events.qmd">here</a></li>
-</ul>
-<hr>
-</section>
-<section id="tip" class="level2">
-<h2 class="anchored" data-anchor-id="tip">💡 Tip</h2>
-<p>If you later want this table to <strong>update automatically</strong> from a CSV (e.g., <code>events.csv</code>), you can replace the static Markdown table with a small R code block like this:</p>
-<p>library(readr) library(knitr)</p>
-<p>events &lt;- read_csv(“events.csv”) kable(events, align = “l”)</p>
+</div>
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<caption>Past Seminars</caption>
+<colgroup>
+<col style="width: 13%">
+<col style="width: 7%">
+<col style="width: 21%">
+<col style="width: 25%">
+<col style="width: 7%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Date</th>
+<th style="text-align: left;">Title</th>
+<th style="text-align: left;">Speaker</th>
+<th style="text-align: left;">Affiliation</th>
+<th style="text-align: left;">Paper</th>
+<th style="text-align: left;">Additional Materials</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2025-04-02</td>
+<td style="text-align: left;">yyy</td>
+<td style="text-align: left;">Alessandro Sulas</td>
+<td style="text-align: left;">University of Trento</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">2025-03-12</td>
+<td style="text-align: left;">xxx</td>
+<td style="text-align: left;">Clementina Crocé</td>
+<td style="text-align: left;">University of Padua</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 
 
 </section>
@@ -300,7 +323,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/youngecoseminar\.org");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

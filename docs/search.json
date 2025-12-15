@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "talks/2025-03-12/index.html",
+    "href": "talks/2025-03-12/index.html",
+    "title": "Non-gendered shocks, gendered consequences: Evidence from a German reform",
+    "section": "",
+    "text": "The G8 reform shortened the duration of the high-track high school program in Germany from nine to eight years. Its implementation covered most federal states and followed a staggered schedule. As a result, in the year the G8 system was introduced, two cohorts graduated from high school simultaneously. This reform generated a temporary positive supply shock, particularly in the apprenticeship market. In this paper, we evaluate the impact of this policy on the gender composition of apprenticeship market entrants, focusing on whether the surge in supply led to a crowding-out of female candidates. Using administrative data covering all apprenticeship contracts in Germany, we find that the G8 reform, and the resulting supply shock, reduced the share of new apprenticeship contracts held by women. This effect is persistent, remaining up to three years after the initial shock."
+  },
+  {
+    "objectID": "talks/2025-03-12/index.html#abstract",
+    "href": "talks/2025-03-12/index.html#abstract",
+    "title": "Non-gendered shocks, gendered consequences: Evidence from a German reform",
+    "section": "",
+    "text": "The G8 reform shortened the duration of the high-track high school program in Germany from nine to eight years. Its implementation covered most federal states and followed a staggered schedule. As a result, in the year the G8 system was introduced, two cohorts graduated from high school simultaneously. This reform generated a temporary positive supply shock, particularly in the apprenticeship market. In this paper, we evaluate the impact of this policy on the gender composition of apprenticeship market entrants, focusing on whether the surge in supply led to a crowding-out of female candidates. Using administrative data covering all apprenticeship contracts in Germany, we find that the G8 reform, and the resulting supply shock, reduced the share of new apprenticeship contracts held by women. This effect is persistent, remaining up to three years after the initial shock."
+  },
+  {
+    "objectID": "talks/2025-03-12/index.html#materials",
+    "href": "talks/2025-03-12/index.html#materials",
+    "title": "Non-gendered shocks, gendered consequences: Evidence from a German reform",
+    "section": "Materials",
+    "text": "Materials\n\n📄 Paper\n🎞️ Slides\n💻 Code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seminar Group",
+    "section": "",
+    "text": "Welcome to the Seminar Group!\nWe are a research community exploring topics in Finance, Economics, and Data Science.\nJoin our next seminar or explore past talks below.\n👉 See upcoming events\n\n\n🧑‍🏫 About Us\nOur seminar brings together PhD students and researchers to discuss ongoing projects, exchange ideas, and collaborate.\n\n📍 Location: University of Trento\n\n🕒 Frequency: Every Thursday, 2–4 PM\n\n📧 Contact: seminar-group@university.edu"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "Welcome to our seminar calendar!\nHere you’ll find the next sessions of our Seminar Group — click on “Details” to learn more about each talk.\n\n\n\n\n🏛️ Location:Department of Economics, University of Trento\n\n⏰ Time: Thursdays, 12am - 1pm\n📬 Contact: fabio.cevenini@unitn.it, marco.tomasi@unitn.it, tesfaye.salarin@unitn.it\n\n\n\n\n\nUpcoming Seminars\n\n\nDate\nTitle\nSpeaker\nAffiliation\nPaper\nAdditional Materials\n\n\n\n\n2026-01-09\nTBD\nTBD\nTBD\nTBD\nTBD\n\n\n\n\n\n\nPast Seminars\n\n\n\n\n\n\n\n\n\n\nDate\nTitle\nSpeaker\nAffiliation\nPaper\nAdditional Materials\n\n\n\n\n2025-04-02\nyyy\nAlessandro Sulas\nUniversity of Trento\nNA\nNA\n\n\n2025-03-12\nxxx\nClementina Crocé\nUniversity of Padua\nNA\nNA"
+  },
+  {
+    "objectID": "events.html#seminar-logistics",
+    "href": "events.html#seminar-logistics",
+    "title": "Upcoming Events",
+    "section": "",
+    "text": "🏛️ Location:Department of Economics, University of Trento\n\n⏰ Time: Thursdays, 12am - 1pm\n📬 Contact: fabio.cevenini@unitn.it, marco.tomasi@unitn.it, tesfaye.salarin@unitn.it\n\n\n\n\n\nUpcoming Seminars\n\n\nDate\nTitle\nSpeaker\nAffiliation\nPaper\nAdditional Materials\n\n\n\n\n2026-01-09\nTBD\nTBD\nTBD\nTBD\nTBD\n\n\n\n\n\n\nPast Seminars\n\n\n\n\n\n\n\n\n\n\nDate\nTitle\nSpeaker\nAffiliation\nPaper\nAdditional Materials\n\n\n\n\n2025-04-02\nyyy\nAlessandro Sulas\nUniversity of Trento\nNA\nNA\n\n\n2025-03-12\nxxx\nClementina Crocé\nUniversity of Padua\nNA\nNA"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -12,47 +61,5 @@
     "title": "People",
     "section": "🧑‍🎓 PhD Students",
     "text": "🧑‍🎓 PhD Students\nTesfaye Sebastiano Salarin is a PhD Candidate in Economics and Finance at the University of Trento and currently a visiting researcher with the EconophysiX Group. His research examines the interplay between intraday price dynamics and both exogenous and endogenous shocks to financial markets. His broader interests include Market Microstructure, High-Frequency and Algorithmic Trading, and Computational Finance. He holds an MSc in Quantitative Finance from Cà Foscari University of Venice."
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "Welcome to our seminar calendar!\nHere you’ll find the next sessions of our Seminar Group — click on “Details” to learn more about each talk.\n\n\n\n\n\n\n🗓️ Date\n🧩 Title\n👤 Speaker\n🔗 Link\n\n\n\n\nNov 15, 2025\nESG News & Markets\nProf. A. Smith\nDetails\n\n\nDec 02, 2025\nMicrostructure Roundtable\nDr. B. Liu\nDetails\n\n\nJan 10, 2026\nMachine Learning in Markets\nProf. T. Aste\nDetails\n\n\n\n\n\n\n\n\n🏛️ Location: University of [Your Institution], Room 301\n\n⏰ Time: Thursdays, 2–4 PM\n\n📬 Contact: seminar-group@university.edu\n\n🗃️ Archive: Past seminars will be listed here\n\n\n\n\n\nIf you later want this table to update automatically from a CSV (e.g., events.csv), you can replace the static Markdown table with a small R code block like this:\nlibrary(readr) library(knitr)\nevents &lt;- read_csv(“events.csv”) kable(events, align = “l”)"
-  },
-  {
-    "objectID": "events.html#next-seminars",
-    "href": "events.html#next-seminars",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "🗓️ Date\n🧩 Title\n👤 Speaker\n🔗 Link\n\n\n\n\nNov 15, 2025\nESG News & Markets\nProf. A. Smith\nDetails\n\n\nDec 02, 2025\nMicrostructure Roundtable\nDr. B. Liu\nDetails\n\n\nJan 10, 2026\nMachine Learning in Markets\nProf. T. Aste\nDetails"
-  },
-  {
-    "objectID": "events.html#seminar-logistics",
-    "href": "events.html#seminar-logistics",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "🏛️ Location: University of [Your Institution], Room 301\n\n⏰ Time: Thursdays, 2–4 PM\n\n📬 Contact: seminar-group@university.edu\n\n🗃️ Archive: Past seminars will be listed here"
-  },
-  {
-    "objectID": "events.html#tip",
-    "href": "events.html#tip",
-    "title": "Upcoming Events",
-    "section": "",
-    "text": "If you later want this table to update automatically from a CSV (e.g., events.csv), you can replace the static Markdown table with a small R code block like this:\nlibrary(readr) library(knitr)\nevents &lt;- read_csv(“events.csv”) kable(events, align = “l”)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Seminar Group",
-    "section": "",
-    "text": "Welcome to the Seminar Group!\nWe are a research community exploring topics in Finance, Economics, and Data Science.\nJoin our next seminar or explore past talks below.\n👉 See upcoming events\n\n\n🧑‍🏫 About Us\nOur seminar brings together PhD students and researchers to discuss ongoing projects, exchange ideas, and collaborate.\n\n📍 Location: University of Trento\n\n🕒 Frequency: Every Thursday, 2–4 PM\n\n📧 Contact: seminar-group@university.edu"
   }
 ]
