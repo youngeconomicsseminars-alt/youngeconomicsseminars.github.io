@@ -1,0 +1,9 @@
+---
+title: "Fabio Cevenini"
+format: html
+---
+
+[![Fabio Cevenini](../images/fabiocevenini.jpg){width=200}]
+
+
+Aspiring environmental economist with a strong interest in quantitative methods for the analysis of discrete choices. My research revolves around common pool resources, developing market based economic tools to improve efficiency and fairness in their allocation. Genuine Tuscan, I love nature, vineyard landscapes and sport.
