@@ -3,7 +3,7 @@ title: "People"
 format: html
 ---
 
-👥 <h1 class="slide-title">Meet Our Team</h1>
+👥 <h1 class="slide-title">Meet Our Community</h1>
 
 
 
