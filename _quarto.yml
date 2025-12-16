@@ -19,6 +19,7 @@ website:
 
 format:
   html:
+    date-title: "Presented on"
     theme: sandstone 
     css: styles.css
     toc: true

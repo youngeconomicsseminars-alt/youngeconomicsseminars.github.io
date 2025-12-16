@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://youngecoseminar.org
+  site-url: https://tesfayesalarin.github.io/YES-Seminars/
   title: "Seminar Group"
   navbar:
     left:
@@ -19,6 +19,7 @@ website:
 
 format:
   html:
+    date-title: "Presented on"
     theme: sandstone 
     css: styles.css
     toc: true

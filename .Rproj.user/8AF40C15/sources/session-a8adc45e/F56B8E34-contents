@@ -1,0 +1,15 @@
+---
+title: "The Bank-Sovereign Nexus in a Banking Union: Evidence from Significant and Less Significant Institutions"
+author: "Alessandro Sulas"
+date: "2025-10-12"
+format: html
+---
+
+## Abstract
+
+This paper investigates the impact of the European Banking Union (EBU) on the nexus between the bank and sovereign sectors, focusing on potential implicit government guarantees among Significant Institutions (SIs) and Less Significant Institutions (LSIs). Using an event study approach around key EBU milestones, it shows that the publication of the official list of SIs is the only event with a significant impact on bank stock prices. Newly designated SIs experienced positive abnormal returns, while LSIs showed no significant change—consistent with increased expectations of government support for designated institutions. To distinguish between announcement and implementation effects, the study quantifies the EBU’s long-term impact on the bank–sovereign nexus, measured by the comovement between bank stock returns and domestic sovereign CDS spreads. Using the SI list publication as an exogenous supervisory classification, difference-in-differences and triple-differences estimates reveal a significant reduction in SI banks’ sensitivity relative to LSIs after the reform. However, extending the analysis to include the COVID-19 pandemic suggests a reemergence of the nexus, indicating that systemic tail events may still involve expectations of public intervention.
+
+## Materials
+- 📄 [Paper](paper.pdf)
+- 🎞️ [Slides](slides.pdf)
+- 💻 [Code](code.zip)
