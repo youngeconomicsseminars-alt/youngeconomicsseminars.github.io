@@ -16,10 +16,10 @@ Click on each profile to visit their academic or research pages.
 [![Tesfaye Sebastiano Salarin](images/tesfaye.jpg){width=200}](people/tesfaye.html)
 _PhD Candidate, University of Trento_
 
-[![Marco Tomasi](/images/marcotomasi.jpg){width=200}](people/tesfaye.html)
+[![Marco Tomasi](/images/marcotomasi.jpg){width=200}](people/marcotomasi.html)
 _Postdoctoral Researcher, University of Trento_
 
-[![Fabio Cevenini](/images/fabiocevenini.jpg){width=200}](people/tesfaye.html)
+[![Fabio Cevenini](/images/fabiocevenini.jpg){width=200}](people/fabiocevenini.html)
 _Postdoctoral Researcher, University of Trento_
 
 
